@@ -1,2 +1,3 @@
 # hello-world
-intro repo
+#This is a README for my first GiTHUB repo.
+#-Daniel
